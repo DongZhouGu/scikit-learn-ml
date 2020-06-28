@@ -74,7 +74,7 @@ plt.scatter(c[:,0],c[:,1],s=100,marker='*',c='black')
 plt.show()
 ```
 
-<img src="E:\Typora图片\image-20200628191906466.png" alt="image-20200628191906466"  />
+<img src="https://cdn.jsdelivr.net/gh/dongzhougu/imageuse1/image-20200628191906466.png" alt="image-20200628191906466"  />
 
 这些点的分布情况在坐标轴上一目了然，其中五角星的点即各个类别的中心点。
 
@@ -124,7 +124,7 @@ for i in neighbors[0]:
 plt.show()
 ```
 
-![](E:\Typora图片\image-20200628204257514.png)
+![](https://cdn.jsdelivr.net/gh/dongzhougu/imageuse1/image-20200628204257514.png)
 
 
 
@@ -195,7 +195,7 @@ plt.show()
 
 最终生成的拟合曲线和训练样本数据如图，拟合出来确实和cos曲线相似
 
-<img src="E:\Typora图片\image-20200628223010274.png" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/dongzhougu/imageuse1/image-20200628223010274.png" style="zoom: 67%;" />
 
 
 
