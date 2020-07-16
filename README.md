@@ -1,18 +1,18 @@
 ### 机器学习算法实现
 ![image-20200716191936979](https://cdn.jsdelivr.net/gh/dongzhougu/imageuse1/image-20200716191936979.png)
 
-##### :smile: 本仓库是《scikit-learn 机器学习 常用算法及编程实战》的学习笔记，使用sklearn实现常用的机器学习算法，附有代码、文档以及相关数据集。
+#### :smile: 本仓库是《scikit-learn 机器学习 常用算法及编程实战》的学习笔记，使用sklearn实现常用的机器学习算法，附有代码、文档以及相关数据集。
 
 #### :smile:也可以到[我的网站](https://dongzhougu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)上阅读
 
-1. [K-近邻算法](scikit-learn-ml/1. K-近邻/ReadMe.md)
-2. [线性回归算法](./2. 线性回归/ReadMe.md)
-3. [逻辑回归算法](./3. 逻辑回归/ReadMe.md)
-4. [决策树算法](./4. 决策树/ReadMe.md)
-5. [支持向量机SVM](./5. 支持向量机SVM/ReadMe.md)
-6. [朴素贝叶斯算法](./6. 朴素贝叶斯/ReadMe.md)
-7. [PCA算法](./7. PCA/ReadMe.md)
-8. [K-均值算法](./8. K-均值/ReadMe.md)
+1. [K-近邻算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/1.%20K-%E8%BF%91%E9%82%BB)
+2. [线性回归算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/2.%20%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92)
+3. [逻辑回归算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/3.%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92)
+4. [决策树算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/4.%20%E5%86%B3%E7%AD%96%E6%A0%91)
+5. [支持向量机SVM](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/5.%20%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BASVM)
+6. [朴素贝叶斯算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/6.%20%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF)
+7. [PCA算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/7.%20PCA)
+8. [K-均值算法](https://github.com/DongZhouGu/scikit-learn-ml/tree/master/8.%20K-%E5%9D%87%E5%80%BC)
 
 
 
