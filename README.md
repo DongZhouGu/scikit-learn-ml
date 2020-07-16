@@ -5,7 +5,7 @@
 
 #### :smile:也可以到[我的网站](https://dongzhougu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)上阅读
 
-1. [K-近邻算法](1. K-近邻/ReadMe.md)
+1. [K-近邻算法](scikit-learn-ml/1. K-近邻/ReadMe.md)
 2. [线性回归算法](./2. 线性回归/ReadMe.md)
 3. [逻辑回归算法](./3. 逻辑回归/ReadMe.md)
 4. [决策树算法](./4. 决策树/ReadMe.md)
