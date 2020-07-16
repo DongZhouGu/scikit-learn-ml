@@ -3,9 +3,9 @@
 
 ##### :smile: 本仓库是《scikit-learn 机器学习 常用算法及编程实战》的学习笔记，使用sklearn实现常用的机器学习算法，附有代码、文档以及相关数据集。
 
-##### :smile:也可以到[我的网站](https://dongzhougu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)上阅读
+#### :smile:也可以到[我的网站](https://dongzhougu.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)上阅读
 
-1. [K-近邻算法](./1. K-近邻/ReadMe.md)
+1. [K-近邻算法](1. K-近邻/ReadMe.md)
 2. [线性回归算法](./2. 线性回归/ReadMe.md)
 3. [逻辑回归算法](./3. 逻辑回归/ReadMe.md)
 4. [决策树算法](./4. 决策树/ReadMe.md)
@@ -25,6 +25,8 @@ scikit-learn是一个开源的Python语言机器学习工具包。它涵盖了�
 - 算法全面：涵盖主流机器学习任务的算法，包括回归算法、分类算法、聚类分析、数据降维处理等。
 
 当然，scikit-learn不支持分布式计算，不适合用来处理超大型数据，但这并不影响scikit-learn作为一个优秀的机器学习工具库这个事实。
+
+
 
 
 
